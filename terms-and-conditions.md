@@ -58,9 +58,10 @@ By uploading your Submission, you warrant and represent that you own or otherwis
 You agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service.  By way of example, and not as a limitation, you agree that when using the Communication Service, you will not:
 
 
-
-*   defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
-*   publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information, such as:
+  
+*  defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+*  publish, post, upload, distribute or disseminate any "not safe for work" (NSFW), inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information, such as:
+    *   images or video portraying violence
     *   pornographic images or video
     *   content that involves or suggests sex with minors
     *   other people's private information
