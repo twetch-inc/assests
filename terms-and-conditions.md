@@ -60,7 +60,7 @@ You agree to use the Communication Services only to post, send and receive messa
 
   
 *  defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
-*  publish, post, upload, distribute or disseminate any "not safe for work" (NSFW), inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information, such as:
+*  publish, post, upload, distribute or disseminate any "not safe for work" (NSFW), inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topic, name, material or information, including, but not limited to:
     *   images or video portraying violence
     *   pornographic images or video
     *   content that involves or suggests sex with minors
