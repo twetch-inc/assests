@@ -43,6 +43,11 @@ Twetch is non-custodial which means we do not store or have access to your money
 
 There are risks associated with using cryptocurrencies and blockchains, and you accept and acknowledge these risks.
 
+**Payments**
+
+All payments made on the Site are final and non-refundable. Any payment toward the Site such as donation for feature development (https://twetch.app/features) are donations and considered as such. There is no guarantee of revenue or profit when using the Site. 
+
+
 **You Own Your Submissions**
 
 Twetch does not claim ownership of your Submissions. However, by uploading your Submission you are granting Twetch a perpetual, nonexclusive, royalty-free license to show and publish it on Twetch.com, including anything reasonably related to publishing it (like, displaying, reformatting, and distributing it). We may also use your content to promote Twetch.com, including its products and content. We will never sell your content to third parties without your explicit permission.
