@@ -3,13 +3,13 @@
 
 
 
-**Agreement between User and Twetch.App / Twetch.com** **/ Twet.ch**
+**Agreement between User and Twetch.app / Twetch.com** **/ Twet.ch**
 
 Welcome to Twetch.app and Twetch.com. The Twetch.app and Twet.ch and Twetch.com websites (the “Site” or “Twetch.com”) are comprised of various web pages operated by Twetch Inc (“Twetch”). The Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the “Terms”). Your use of Twetch.com constitutes your agreement to all such Terms. Please read these Terms carefully, and keep a copy of them for your reference.
 
 
 
-Twetch.com is a Social Networking Online Discussion Site where registered members can be rewarded by other users for their positive contributions to the Site.
+Twetch.com is a Social Networking Online Discussion Site where registered members can be rewarded by other users for their contributions to the Site.
 
 
 
@@ -33,13 +33,13 @@ Twetch.com incorporates monetary incentives into the Site whereby you are able t
 
 Currently the Site uses moneybutton.com, relayx.io, and similar cryptocurrency wallet services as a way to facilitate the User Compensation.  In order to use Twetch, you must have a moneybutton.com, relayx.io, and similar cryptocurrency wallet services account.  Moneybutton.com, relayx.io, and similar cryptocurrency wallet services uses the cryptocurrency BITCOIN SV (“BSV”) for these transactions.
 
-BSV and Moneybutton.com are not owned, controlled, or operated by Twetch. Twetch has no control over the blockchain or the cryptocurrency and therefore we cannot ensure that your Submissions will be confirmed on BSV. The materials you provide to Twetch.com including your posts, uploads, inputs and submits to Twetch.com or our associated services (collectively “Submissions”) are stored on the BSV blockchain, a public ledger of information. Since we are only displaying posts from the BSV blockchain, we cannot delete or alter any information on the BSV blockchain.  You acknowledge that by posting on Twetch you are posting on the BSV blockchain.  While we can remove your Submission from showing on Twetch.com we cannot alter or remove your post from the BSV blockchain.  Your post will live there forever for as long as related data hosting services hold it.
+BSV, Moneybutton.com, RelayX, DotWallet, Handcash or any other BSV wallet used to sign in to Twetch are not owned, controlled, or operated by Twetch. Twetch has no control over the blockchain or the cryptocurrency and therefore we cannot ensure that your Submissions will be confirmed on BSV. The materials you provide to Twetch.com including your posts, uploads, inputs and submits to Twetch.com or our associated services (collectively “Submissions”) are stored on the BSV blockchain, a public ledger of information. Since we are only displaying posts that are posted to the BSV blockchain, we cannot delete or alter any information on the BSV blockchain after it has been submitted.  You acknowledge that by posting on Twetch you are posting on the BSV blockchain.  While we can remove your Submission from showing on Twetch.com we cannot alter or remove your post from the BSV blockchain.  Your post will live there forever for as long as related data hosting services hold said data.
 
-We reserve the right to convert to a different blockchain and/or cryptocurrency protocol in the future.  We will notify you if this happens.
+We reserve the right to convert to a different blockchain and/or cryptocurrency protocol in the future.
 
 **Twetch is Non-Custodial**
 
-Twetch is non-custodial which means we do not store or have access to your moneybutton.com, relayx.io, and similar cryptocurrency wallet services account or any of your accounts whereby cryptocurrencies or monies are transacted or stored. No monies flow through us or our Site.  We do not hold or custody your private key and we assume no responsibility for the management of your private keys tied to your Account.  We do not store, send, or receive BSV or other monies between users.  The only money we receive is the commission we earn on User Compensation which is paid to us by moneybutton.com, relayx.io, and similar cryptocurrency wallet services or by any future cryptocurrency protocol that we might use. Any transfer of title that might occur in cryptocurrency, including BSV, occurs on the Blockchain and not within Twetch. We do not guarantee that BSV blockchain or BSV can affect the transfer of title or rights in any cryptocurrency.
+Twetch is non-custodial which means we do not store or have access to your Moneybutton, RelayX, DotWallet, Handcash, Twetch Wallet or similar cryptocurrency wallet services account or any of your accounts whereby cryptocurrencies or monies are transacted or stored. No monies flow through us or our Site. We do not hold or custody your private key recovery phrase, or any login credentials such as your login email, username, or password and we assume no responsibility for the management of your private keys tied to your Account.  We do not store, send, or receive BSV or other monies between users.  The only money we receive is the commission we earn on User Compensation which is paid to us by Moneybutton, RelayX, DotWallet, Handcash, Twetch Wallet and similar cryptocurrency wallet services in which the user has authorized to spend upon their behalf, specifically aknowledging neither Twetch nor Twetch Wallet service has access to your private key recovery phrase or funds at any time. Any transfer of title that might occur in cryptocurrency, including BSV, occurs on the Blockchain and not within Twetch. We do not guarantee that BSV blockchain or BSV can affect the transfer of title or rights in any cryptocurrency.
 
 There are risks associated with using cryptocurrencies and blockchains, and you accept and acknowledge these risks.
 
@@ -50,7 +50,7 @@ All payments made on the Site are final and non-refundable. Any payment toward t
 
 **You Own Your Submissions**
 
-Twetch does not claim ownership of your Submissions. However, by uploading your Submission you are granting Twetch a perpetual, nonexclusive, royalty-free license to show and publish it on Twetch.com, including anything reasonably related to publishing it (like, displaying, reformatting, and distributing it). We may also use your content to promote Twetch.com, including its products and content. We will never sell your content to third parties without your explicit permission.
+Twetch does not claim ownership of your Submissions. However, by uploading your Submission you are granting Twetch a perpetual, nonexclusive, royalty-free license to show and publish it on Twetch.com, including anything reasonably related to publishing it (like, displaying, reformatting, and distributing it). We may also use your content to promote Twetch.com, with your permission, including its products and content. We will never sell your content to third parties without your explicit permission.
 
 Twetch is under no obligation to post or use any Submission you may provide and may block any Submission at any time from showing on the Site in Twetch's sole discretion and without explanation. All Twetch posts are final and non-refundable.
 
@@ -106,7 +106,7 @@ Twetch respects the intellectual property rights of others and we will respond t
 
 **Deletion Policy – Your Right To Be Forgotten**
 
-You may delete your account at any time and for any reason.  You may contact us at [hello@twetch.com](mailto:hello@twetch.com) to have us remove your Submission(s) from showing on the Site.  Again, we cannot delete the posts from the Bitcoin SV blockchain or any related data hosting services but we can and will not show such posts on the Site.
+You may delete your account at any time and for any reason.  You may contact us at [hello@twetch.com](mailto:hello@twetch.com) to have us remove your Submission(s) from showing on the Site in a reasonable amount of time.  Again, we cannot delete the posts from the Bitcoin SV blockchain or any related data hosting services but we can and will not show such posts on the Site.
 
 
 
@@ -209,13 +209,6 @@ Twetch welcomes your questions or comments regarding the Terms:
 
 
 Twetch Inc
-
-738 South County Road 900 East
-
-Frankfort, Indiana 46041
-
-
-
 
 
 Email Address:
